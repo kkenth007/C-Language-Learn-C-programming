@@ -48,32 +48,8 @@ int main()
     }
     printf("\n");
     
-    //Form 3
-    /*int Y, X, J, Z=0;
-
-    printf("Enter number of rows: ");
-    scanf("%d",&J);
-    printf("\n");
-
-    for(Y=1; Y<=J; ++Y, Z=0)
-    {
-        for(X=1; X<=J-Y; ++X)
-        {
-            printf("  ");
-        }
-
-        while(Z != 2*Y-1)
-        {
-            printf("*");
-            Z++;
-        }
-
-        printf("\n");
-    }
     
-    return 0;*/
-    
-    //form 4
+    //form 3
     
     int A, B, C;
 
